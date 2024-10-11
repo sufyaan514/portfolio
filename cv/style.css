@@ -1,0 +1,46 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    color: lightcoral;
+}
+
+h2, h3{
+    color: lightcoral;
+}
+
+address{
+    text-align: center;
+    color: lightcoral;
+}
+
+#img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+
+#img2{
+    height: 20px;
+}
+
+#div1{
+    border: 2px solid;
+    border-color: lightcoral;
+    border-radius: 25px;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    position: absolute;
+    left: 500px;
+}
+
+p{
+    text-indent: 2em;
+    line-height: 1.2em;
+    color: black;
+    max-width: 1000px;
+}
